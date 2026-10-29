@@ -1,6 +1,6 @@
 {
   "service": "Supabase licensing database",
-  "lastCheckedAt": "2026-10-29T16:54:20Z",
+  "lastCheckedAt": "2026-10-29T22:42:52Z",
   "healthy": true,
   "checks": [
     {
@@ -125,6 +125,10 @@
     },
     {
       "checkedAt": "2026-10-29T16:54:20Z",
+      "healthy": true
+    },
+    {
+      "checkedAt": "2026-10-29T22:42:52Z",
       "healthy": true
     }
   ]
